@@ -1,3 +1,3 @@
-module github.com/takutotsuchie/cli
+module github.com/takutotsuchie/hello-cli
 
 go 1.20
